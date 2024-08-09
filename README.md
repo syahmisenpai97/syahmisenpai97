@@ -2,7 +2,7 @@
 
 ## About Me :
 <ul>
-  <li>🎓 Software Engineer </li>
+  <li>🎓 Computer Engineer </li>
   <li>💻 Self-taught Front-end Developer</li>
   <li>🎓 A programmer by heart and profession</li>
 </ul>
